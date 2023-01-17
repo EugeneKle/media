@@ -1,50 +1,5 @@
 {
-  "users": [
-    {
-      "id": 1,
-      "name": "Myra"
-    },
-    {
-      "name": "Tiffany Jacobi",
-      "id": 2
-    },
-    {
-      "name": "Mrs. Martin Adams",
-      "id": 3
-    },
-    {
-      "name": "Charlene Hagenes",
-      "id": 4
-    },
-    {
-      "name": "Antonia Haley",
-      "id": 5
-    },
-    {
-      "name": "David Ritchie",
-      "id": 6
-    },
-    {
-      "name": "Eddie Block",
-      "id": 7
-    },
-    {
-      "name": "Michelle Hane",
-      "id": 8
-    },
-    {
-      "name": "Constance Lemke",
-      "id": 9
-    },
-    {
-      "name": "Mrs. Kristopher Mayer",
-      "id": 10
-    },
-    {
-      "name": "Oliver Fisher",
-      "id": 11
-    }
-  ],
+  "users": [],
   "albums": [],
   "photos": []
 }
