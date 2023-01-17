@@ -1,5 +1,26 @@
 {
-  "users": [],
+  "users": [
+    {
+      "name": "Barry Russel",
+      "id": 1
+    },
+    {
+      "name": "Orville Nolan Jr.",
+      "id": 2
+    },
+    {
+      "name": "Herman Hessel V",
+      "id": 3
+    },
+    {
+      "name": "Casey Metz",
+      "id": 4
+    },
+    {
+      "name": "Naomi Barton",
+      "id": 5
+    }
+  ],
   "albums": [],
   "photos": []
 }
