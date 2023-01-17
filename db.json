@@ -1,26 +1,26 @@
 {
   "users": [
     {
-      "name": "Barry Russel",
+      "name": "Cornelius Lockman",
+      "id": 1
+    }
+  ],
+  "albums": [
+    {
+      "userId": 1,
+      "title": "Small Soft Table",
       "id": 1
     },
     {
-      "name": "Orville Nolan Jr.",
+      "userId": 1,
+      "title": "Incredible Plastic Chips",
       "id": 2
     },
     {
-      "name": "Herman Hessel V",
+      "userId": 1,
+      "title": "Refined Granite Chicken",
       "id": 3
-    },
-    {
-      "name": "Casey Metz",
-      "id": 4
-    },
-    {
-      "name": "Naomi Barton",
-      "id": 5
     }
   ],
-  "albums": [],
   "photos": []
 }
