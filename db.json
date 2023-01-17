@@ -1,25 +1,45 @@
 {
   "users": [
     {
-      "name": "Cornelius Lockman",
+      "name": "Shelly Bernier",
       "id": 1
     }
   ],
   "albums": [
     {
       "userId": 1,
-      "title": "Small Soft Table",
+      "title": "Sleek Wooden Pants",
       "id": 1
     },
     {
       "userId": 1,
-      "title": "Incredible Plastic Chips",
+      "title": "Fantastic Wooden Pants",
       "id": 2
     },
     {
       "userId": 1,
-      "title": "Refined Granite Chicken",
+      "title": "Tasty Wooden Gloves",
       "id": 3
+    },
+    {
+      "userId": 1,
+      "title": "Awesome Soft Pizza",
+      "id": 4
+    },
+    {
+      "userId": 1,
+      "title": "Refined Granite Cheese",
+      "id": 5
+    },
+    {
+      "userId": 1,
+      "title": "Intelligent Granite Hat",
+      "id": 6
+    },
+    {
+      "userId": 1,
+      "title": "Tasty Metal Tuna",
+      "id": 7
     }
   ],
   "photos": []
