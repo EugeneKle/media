@@ -1,46 +1,27 @@
 {
   "users": [
     {
-      "name": "Shelly Bernier",
+      "name": "Alma Kuhn",
       "id": 1
     }
   ],
   "albums": [
     {
       "userId": 1,
-      "title": "Sleek Wooden Pants",
-      "id": 1
-    },
-    {
-      "userId": 1,
-      "title": "Fantastic Wooden Pants",
+      "title": "Gorgeous Cotton Keyboard",
       "id": 2
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Wooden Gloves",
-      "id": 3
-    },
-    {
-      "userId": 1,
-      "title": "Awesome Soft Pizza",
-      "id": 4
-    },
-    {
-      "userId": 1,
-      "title": "Refined Granite Cheese",
-      "id": 5
-    },
-    {
-      "userId": 1,
-      "title": "Intelligent Granite Hat",
-      "id": 6
-    },
-    {
-      "userId": 1,
-      "title": "Tasty Metal Tuna",
-      "id": 7
     }
   ],
-  "photos": []
+  "photos": [
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=40271",
+      "id": 19
+    },
+    {
+      "albumId": 2,
+      "url": "https://loremflickr.com/150/150/abstract?lock=64766",
+      "id": 23
+    }
+  ]
 }
